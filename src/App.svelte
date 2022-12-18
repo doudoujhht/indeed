@@ -1,13 +1,11 @@
-<script>
-  import XboxTopBanner from "./xbox-top-banner.svelte";
-  import XboxHeroBanner from "./xbox-hero-banner.svelte";
-  import XboxCallToAction from "./xbox-call-to-action.svelte";
+<script lang="ts">
+  import Listing from "./listing.svelte";
 </script>
 
 <main>
-  <XboxTopBanner/>
-  <XboxHeroBanner/>
-  <XboxCallToAction/>
+  <Listing/>
+  bledard
+  <h1 class="text-red-100">dwedwa</h1>
 </main>
 
 <style>
