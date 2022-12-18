@@ -1,11 +1,8 @@
 <script lang="ts">
-	import Listing from './listing.svelte';
 </script>
 
 <main>
-	<Listing />
-	bledard
-	<h1 class="text-red-100">dwedwa</h1>
+	<h1>App</h1>
 </main>
 
 <style>
